@@ -13,3 +13,4 @@ A 12-lead electrocardiogram database for arrhythmia research covering more than 
 https://rdcu.be/cVuiA
 ##  Architecture
 
+![architechture](https://user-images.githubusercontent.com/110264524/189880325-5ad6148e-7317-4d38-a79f-3994a96c8655.PNG)
